@@ -2,7 +2,8 @@
 
 <details>
   <summary>Table of Contents</summary>
-**Chapter 1: The Lean Framework - Embracing Continuous Improvement for Agile Coaches**
+  
+    **Chapter 1: The Lean Framework - Embracing Continuous Improvement for Agile Coaches**
     
     1.1 The Essence of Lean: A Journey of Continuous Improvement
     
