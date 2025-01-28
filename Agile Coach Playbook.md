@@ -64,7 +64,7 @@
     
     This table of contents provides a comprehensive overview of the topics covered in this extensive Agile playbook, guiding you to the relevant information needed for your Agile coaching journey. Use this as a roadmap to navigate this resource and access specific chapters or information quickly and efficiently.
     
-- Chapter 1: The Lean Framework - Embracing Continuous Improvement for Agile Coaches
+  ## Chapter 1: The Lean Framework - Embracing Continuous Improvement for Agile Coaches
     
     Welcome to the world of Lean, a philosophy and methodology that has revolutionized industries, from manufacturing to healthcare, and now finds its potent application in the realm of Agile software development. As you embark on your journey as an Agile Coach, understanding and mastering Lean principles will equip you with invaluable tools to guide teams towards continuous improvement, streamlined processes, and maximized value delivery.
     
@@ -122,7 +122,7 @@
     
     May your coaching journey be filled with continuous learning, empowering experiences, and the satisfaction of witnessing teams achieve their full potential.
     
-- Chapter 2: Navigating the Scrum Framework: A Guide for Agile Coaches
+## Chapter 2: Navigating the Scrum Framework: A Guide for Agile Coaches
     
     Chapter 2 delves into the intricacies of the Scrum framework, one of the most widely used Agile methodologies. You'll gain a comprehensive understanding of Scrum's core values, events, artifacts, and roles, empowering you to effectively coach teams in adopting and leveraging this powerful framework.
     
@@ -186,7 +186,7 @@
     
     As you explore the subsequent chapters, you'll delve deeper into other Agile frameworks, including Kanban, and encounter invaluable tools and exercises to further empower your coaching repertoire. With this comprehensive understanding and practical toolkit by your side, you'll be equipped to confidently guide Agile teams towards excellence and empower them to deliver exceptional value in an ever-evolving technological landscape.
     
-- Chapter 3: Navigating the Flow - Mastering the Kanban Framework
+## Chapter 3: Navigating the Flow - Mastering the Kanban Framework
     
     Welcome to the dynamic world of Kanban, a visual and flexible framework that emphasizes continuous flow and evolutionary change. This chapter delves into the core principles of Kanban, its unique approach to managing work, and equips you, as an Agile Coach, with the tools and guidance to guide teams towards adopting and maximizing its potential.
     
@@ -247,7 +247,7 @@
     
     This chapter marks a significant step in your journey as an Agile Coach. As you explore the remaining chapters, you'll gain valuable insights into additional Agile frameworks and methodologies, expanding your coaching repertoire and equipping you to guide diverse teams towards excellence.
     
-- Chapter 4: Essential Agile Glossary for Beginner Coaches
+## Chapter 4: Essential Agile Glossary for Beginner Coaches
     
     This glossary offers a concise explanation of key Agile terms and concepts, equipping you, as a beginner Agile Coach, with a solid foundation for guiding teams and navigating the Agile landscape:
     
@@ -281,7 +281,7 @@
     
     This glossary provides a starting point for your Agile journey. As you delve deeper into the world of Agile, you will encounter and internalize an ever-expanding repertoire of terms and concepts. This glossary will serve as a valuable reference guide, and with practice, you will develop a natural understanding of the Agile lexicon, enabling you to confidently communicate and collaborate with Agile teams.
     
-- Chapter 5: Resource Hub for Your Agile Coaching Journey
+## Chapter 5: Resource Hub for Your Agile Coaching Journey
     
     This resource section provides links to valuable materials that will further your learning and exploration as an Agile Coach:
     
@@ -322,7 +322,7 @@
     
     This resource section is not exhaustive but provides a starting point for your independent research and continued learning. As you engage with these resources, you will continuously expand your knowledge, acquire new perspectives, and refine your coaching skills, enabling you to effectively guide Agile teams and contribute to their success.
     
-- Chapter 6: Agile Artifact Templates for Download and Customization
+## Chapter 6: Agile Artifact Templates for Download and Customization
     
     This section offers downloadable templates for commonly used Agile artifacts, providing you with a foundation to customize and use in your coaching practice:
     
