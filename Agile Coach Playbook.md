@@ -1,5 +1,70 @@
 # Agile Coach Playbook - draft 02 github
 
+<details>
+  <summary>Table of Contents</summary>
+**Chapter 1: The Lean Framework - Embracing Continuous Improvement for Agile Coaches**
+    
+    1.1 The Essence of Lean: A Journey of Continuous Improvement
+    
+    1.2 Integrating Lean with Agile: A Powerful Synergy
+    
+    1.3 Coaching for a Lean Mindset: Facilitating Transformation
+    
+    1.4 Lean Tools and Exercises: Equipping Teams for Success
+    
+    1.5 Conclusion: Embracing the Lean Journey
+    
+    **Chapter 2: Navigating the Scrum Framework: A Guide for Agile Coaches**
+    
+    2.1 Embracing the Scrum Values: The Foundation for Success
+    
+    2.2 Deconstructing the Scrum Events: The Rhythms of the Sprint
+    
+    2.3 Mastering the Scrum Artifacts: Tools for Transparency and Control
+    
+    2.4 Empowering Roles: Defining Responsibilities for Scrum Success
+    
+    2.5 Coaching for Scrum Mastery: Leading Teams to Excellence
+    
+    2.6 Conclusion: Unleashing the Power of Scrum
+    
+    **Chapter 3: Navigating the Flow - Mastering the Kanban Framework**
+    
+    3.1 Embracing the Kanban Mindset: A Flow-Driven Approach
+    
+    3.2 The Kanban Board: A Visual Representation of the Workflow
+    
+    3.3 Kanban Tools and Techniques: Enabling Continuous Improvement
+    
+    3.4 Coaching for a Kanban Mindset: Nurturing a Culture of Continuous Improvement
+    
+    3.5 Kanban in Action: Real-World Applications
+    
+    3.6 Conclusion: Embracing the Kanban Flow
+    
+    **Chapter 4: Essential Agile Glossary for Beginner Coaches**
+    
+    - A Concise Lexicon of Key Agile Terms
+    
+    **Chapter 5: Resource Hub for Your Agile Coaching Journey**
+    
+    - Articles and Blogs
+    - Books
+    - Online Courses and Training
+    - Podcasts
+    - Communities and Events
+    
+    **Chapter 6: Agile Artifact Templates for Download and Customization**
+    
+    - Sprint Backlog Template
+    - Product Backlog Template
+    - Kanban Board Template
+    - User Story Template
+    - Sprint Review Template
+    
+    This table of contents provides a comprehensive overview of the topics covered in this extensive Agile playbook, guiding you to the relevant information needed for your Agile coaching journey. Use this as a roadmap to navigate this resource and access specific chapters or information quickly and efficiently.
+</details>
+
 - Table of Contents
     
     **Chapter 1: The Lean Framework - Embracing Continuous Improvement for Agile Coaches**
