@@ -1,38 +1,18 @@
 # 📘 Podiobook | DX (Digital Transformation) Done Right 2025
 
 - [Episode 56](https://anchor.fm/maifors/episodes/Five-Creative-Ways-To-Lead-A-Digital-Transformation--S01E54-e1a1ot4)
+ 
+- [Episode 55](https://anchor.fm/maifors/episodes/How-Simulation-Can-Accelerate-Your-Digital-Transformation--S01E55-e1ad2da)
     
-    [https://anchor.fm/maifors/episodes/Five-Creative-Ways-To-Lead-A-Digital-Transformation--S01E54-e1a1ot4](https://anchor.fm/maifors/episodes/Five-Creative-Ways-To-Lead-A-Digital-Transformation--S01E54-e1a1ot4)
+- [Episode 54](https://anchor.fm/maifors/episodes/Five-Creative-Ways-To-Lead-A-Digital-Transformation--S01E54-e1a1ot4)
     
-
-- Episode 55
+- [Episode 53](https://anchor.fm/maifors/episodes/Keeping-up-With-Digital-Transformation--S01E53-e19n515)
     
-    [https://anchor.fm/maifors/episodes/How-Simulation-Can-Accelerate-Your-Digital-Transformation--S01E55-e1ad2da](https://anchor.fm/maifors/episodes/How-Simulation-Can-Accelerate-Your-Digital-Transformation--S01E55-e1ad2da)
+- [Episode 52](https://anchor.fm/maifors/episodes/Digital-Mindfulness-Being-Digital-Instead-Of-Doing-Digital--S01E52-e19cnqj)
+      
+- [Episode 51](https://anchor.fm/maifors/episodes/The-Future-of-Digital-Work-Depends-On-More-Than-Tech-Skills--S01E51-e193ffh)
     
-
-- Episode 54
-    
-    [https://anchor.fm/maifors/episodes/Five-Creative-Ways-To-Lead-A-Digital-Transformation--S01E54-e1a1ot4](https://anchor.fm/maifors/episodes/Five-Creative-Ways-To-Lead-A-Digital-Transformation--S01E54-e1a1ot4)
-    
-
-- Episode 53
-    
-    [https://anchor.fm/maifors/episodes/Keeping-up-With-Digital-Transformation--S01E53-e19n515](https://anchor.fm/maifors/episodes/Keeping-up-With-Digital-Transformation--S01E53-e19n515)
-    
-
-- Episode 52
-    
-    [https://anchor.fm/maifors/episodes/Digital-Mindfulness-Being-Digital-Instead-Of-Doing-Digital--S01E52-e19cnqj](https://anchor.fm/maifors/episodes/Digital-Mindfulness-Being-Digital-Instead-Of-Doing-Digital--S01E52-e19cnqj)
-    
-
-- Episode 51
-    
-    [https://anchor.fm/maifors/episodes/The-Future-of-Digital-Work-Depends-On-More-Than-Tech-Skills--S01E51-e193ffh](https://anchor.fm/maifors/episodes/The-Future-of-Digital-Work-Depends-On-More-Than-Tech-Skills--S01E51-e193ffh)
-    
-
-- Episode 50
-    
-    [https://anchor.fm/maifors/episodes/Workforce-Ecosystems--A-New-Strategic-Approach-to-the-Future-of-Work--S01E50-e18p6ad](https://anchor.fm/maifors/episodes/Workforce-Ecosystems--A-New-Strategic-Approach-to-the-Future-of-Work--S01E50-e18p6ad)
+- [Episode 50](https://anchor.fm/maifors/episodes/Workforce-Ecosystems--A-New-Strategic-Approach-to-the-Future-of-Work--S01E50-e18p6ad)
     
 
 - Episode 49
