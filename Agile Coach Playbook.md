@@ -1,4 +1,4 @@
-# Agile Coach Playbook - draft 02 github
+# Agile Coach Playbook
 
 <details>
   <summary>Table of Contents</summary>
