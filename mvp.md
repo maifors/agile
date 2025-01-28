@@ -590,12 +590,8 @@ The world needs skilled and passionate Agile coaches to guide organizations thro
 
 **Call to Action**
 
-Now it's time to put
-
-
-your learning into action!  Take the first step and start planning your own coaching MVP.  Remember, the most important thing is to start small, get feedback, and iterate towards success.
+Now it's time to put your learning into action!  Take the first step and start planning your own coaching MVP.  Remember, the most important thing is to start small, get feedback, and iterate towards success.
 
 We wish you all the best on your Agile coaching journey!
 
 
-tt
