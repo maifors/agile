@@ -1,5 +1,11 @@
 # Agile Coach Playbook - draft 02 github
 
+**Table of Contents**
+
+* [Main Heading](#main-heading)
+    * [Subheading 1](#subheading-1)
+        * [Subheading 2](#subheading-2)
+
 - Table of Contents
     
     **Chapter 1: The Lean Framework - Embracing Continuous Improvement for Agile Coaches**
