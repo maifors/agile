@@ -1,4 +1,4 @@
-# 📘 Podiobook | DX (Digital Transformation) Done Right 2025
+# 📘 Podiobook | DX (Digital Transformation) Done Right
 
 - [Episode 56](https://anchor.fm/maifors/episodes/Five-Creative-Ways-To-Lead-A-Digital-Transformation--S01E54-e1a1ot4)
 - [Episode 55](https://anchor.fm/maifors/episodes/How-Simulation-Can-Accelerate-Your-Digital-Transformation--S01E55-e1ad2da)
