@@ -3,63 +3,63 @@
 ## Introduction to Agile
 
 ### What is Agile?
-[![What is Agile?](https://img.youtube.com/vi/Z7J9F2Z5Qjw/0.jpg)](https://www.youtube.com/watch?v=Z7J9F2Z5Qjw)
+- [What is Agile?](https://www.agilealliance.org/agile101/)
 
 ### History of Agile
-[![History of Agile](https://img.youtube.com/vi/45D2qI7nA7c/0.jpg)](https://www.youtube.com/watch?v=45D2qI7nA7c)
+- [History of Agile](https://www.agilealliance.org/agile101/the-agile-manifesto/)
 
 ### Agile Principles and Values
-[![Agile Principles and Values](https://img.youtube.com/vi/ZuF55k_0e5Q/0.jpg)](https://www.youtube.com/watch?v=ZuF55k_0e5Q)
+- [Agile Principles and Values](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
 
 ## Agile Methodologies
 
 ### Scrum
-[![Scrum Explained in 5 Minutes](https://img.youtube.com/vi/45D2qI7nA7c/0.jpg)](https://www.youtube.com/watch?v=45D2qI7nA7c)
+- [Scrum Explained](https://www.scrum.org/resources/what-is-scrum)
 
 ### Kanban
-[![Kanban Explained in 5 Minutes](https://img.youtube.com/vi/45D2qI7nA7c/0.jpg)](https://www.youtube.com/watch?v=45D2qI7nA7c)
+- [Kanban Explained](https://www.kanbanize.com/kanban-resources/getting-started/what-is-kanban)
 
 ### Lean
-[![Lean Software Development Explained](https://img.youtube.com/vi/45D2qI7nA7c/0.jpg)](https://www.youtube.com/watch?v=45D2qI7nA7c)
+- [Lean Software Development Explained](https://www.lean.org/WhatsLean/)
 
 ### Extreme Programming (XP)
-[![Extreme Programming (XP) Explained](https://img.youtube.com/vi/45D2qI7nA7c/0.jpg)](https://www.youtube.com/watch?v=45D2qI7nA7c)
+- [Extreme Programming (XP) Explained](https://www.agilealliance.org/glossary/xp/)
 
 ## Agile Mindset
 
 ### Embracing Change
-[![Embracing Change in Agile](https://img.youtube.com/vi/45D2qI7nA7c/0.jpg)](https://www.youtube.com/watch?v=45D2qI7nA7c)
+- [Embracing Change in Agile](https://www.agilealliance.org/agile101/embracing-change/)
 
 ### Customer-Centric Thinking
-[![Customer-Centric Agile](https://img.youtube.com/vi/45D2qI7nA7c/0.jpg)](https://www.youtube.com/watch?v=45D2qI7nA7c)
+- [Customer-Centric Agile](https://www.agilealliance.org/agile101/customer-centric/)
 
 ### Collaboration and Teamwork
-[![Agile Collaboration and Teamwork](https://img.youtube.com/vi/45D2qI7nA7c/0.jpg)](https://www.youtube.com/watch?v=45D2qI7nA7c)
+- [Agile Collaboration and Teamwork](https://www.agilealliance.org/agile101/teamwork/)
 
 ### Continuous Improvement
-[![Continuous Improvement in Agile](https://img.youtube.com/vi/45D2qI7nA7c/0.jpg)](https://www.youtube.com/watch?v=45D2qI7nA7c)
+- [Continuous Improvement in Agile](https://www.agilealliance.org/agile101/continuous-improvement/)
 
 ## Implementing Agile in Organizations
 
 ### Organizational Culture
-[![Building an Agile Culture](https://img.youtube.com/vi/45D2qI7nA7c/0.jpg)](https://www.youtube.com/watch?v=45D2qI7nA7c)
+- [Building an Agile Culture](https://www.agilealliance.org/agile101/agile-culture/)
 
 ### Leadership and Management
-[![Agile Leadership](https://img.youtube.com/vi/45D2qI7nA7c/0.jpg)](https://www.youtube.com/watch?v=45D2qI7nA7c)
+- [Agile Leadership](https://www.agilealliance.org/agile101/agile-leadership/)
 
 ### Change Management
-[![Change Management in Agile](https://img.youtube.com/vi/45D2qI7nA7c/0.jpg)](https://www.youtube.com/watch?v=45D2qI7nA7c)
+- [Change Management in Agile](https://www.agilealliance.org/agile101/change-management/)
 
 ### Metrics and Measurement
-[![Agile Metrics and Measurement](https://img.youtube.com/vi/45D2qI7nA7c/0.jpg)](https://www.youtube.com/watch?v=45D2qI7nA7c)
+- [Agile Metrics and Measurement](https://www.agilealliance.org/agile101/metrics-and-measurement/)
 
 ## Case Studies and Success Stories
 
 ### Real-World Examples
-[![Agile Case Study: Spotify](https://img.youtube.com/vi/45D2qI7nA7c/0.jpg)](https://www.youtube.com/watch?v=45D2qI7nA7c)
+- [Agile Case Study: Spotify](https://www.agilealliance.org/resources/experience-reports/spotify/)
 
 ### Lessons Learned
-[![Lessons Learned from Agile Implementations](https://img.youtube.com/vi/45D2qI7nA7c/0.jpg)](https://www.youtube.com/watch?v=45D2qI7nA7c)
+- [Lessons Learned from Agile Implementations](https://www.agilealliance.org/resources/experience-reports/)
 
 ## Resources and Further Learning
 
