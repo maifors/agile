@@ -1,0 +1,137 @@
+# Adopting an Agile Mindset
+
+## Introduction to Agile
+
+### What is Agile?
+[
+
+![What is Agile?](https://img.youtube.com/vi/Z7J9F2Z5Qjw/0.jpg)
+
+](https://www.youtube.com/watch?v=Z7J9F2Z5Qjw)
+
+### History of Agile
+[
+
+![History of Agile](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)
+
+](https://www.youtube.com/watch?v=5GzV1FzX0jw)
+
+### Agile Principles and Values
+[
+
+![Agile Principles and Values](https://img.youtube.com/vi/ZuF55k_0e5Q/0.jpg)
+
+](https://www.youtube.com/watch?v=ZuF55k_0e5Q)
+
+## Agile Methodologies
+
+### Scrum
+[
+
+![Scrum Explained in 5 Minutes](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)
+
+](https://www.youtube.com/watch?v=5GzV1FzX0jw)
+
+### Kanban
+[
+
+![Kanban Explained in 5 Minutes](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)
+
+](https://www.youtube.com/watch?v=5GzV1FzX0jw)
+
+### Lean
+[
+
+![Lean Software Development Explained](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)
+
+](https://www.youtube.com/watch?v=5GzV1FzX0jw)
+
+### Extreme Programming (XP)
+[![Extreme Programming (XP) Explained](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)](https://www.youtube.com/watch?v=5GzV1FzX0jw)
+
+## Agile Mindset
+
+### Embracing Change
+[
+
+![Embracing Change in Agile](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)
+
+](https://www.youtube.com/watch?v=5GzV1FzX0jw)
+
+### Customer-Centric Thinking
+[
+
+![Customer-Centric Agile](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)
+
+](https://www.youtube.com/watch?v=5GzV1FzX0jw)
+
+### Collaboration and Teamwork
+[
+
+![Agile Collaboration and Teamwork](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)
+
+](https://www.youtube.com/watch?v=5GzV1FzX0jw)
+
+### Continuous Improvement
+[
+
+![Continuous Improvement in Agile](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)
+
+](https://www.youtube.com/watch?v=5GzV1FzX0jw)
+
+## Implementing Agile in Organizations
+
+### Organizational Culture
+[
+
+![Building an Agile Culture](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)
+
+](https://www.youtube.com/watch?v=5GzV1FzX0jw)
+
+### Leadership and Management
+[
+
+![Agile Leadership](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)
+
+](https://www.youtube.com/watch?v=5GzV1FzX0jw)
+
+### Change Management
+[
+
+![Change Management in Agile](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)
+
+](https://www.youtube.com/watch?v=5GzV1FzX0jw)
+
+### Metrics and Measurement
+[
+
+![Agile Metrics and Measurement](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)
+
+](https://www.youtube.com/watch?v=5GzV1FzX0jw)
+
+## Case Studies and Success Stories
+
+### Real-World Examples
+[
+
+![Agile Case Study: Spotify](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)
+
+](https://www.youtube.com/watch?v=5GzV1FzX0jw)
+
+### Lessons Learned
+[
+
+![Lessons Learned from Agile Implementations](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)
+
+](https://www.youtube.com/watch?v=5GzV1FzX0jw)
+
+## Resources and Further Learning
+
+### Books
+- [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/Agile-Software-Development-Principles-Patterns-Practices/dp/0135974445)
+
+### Articles
+- [Agile Alliance Articles](https://www.agilealliance.org/)
+
+### Online Courses
+- [Coursera Agile Courses](https://www.coursera.org/courses?query=agile)
