@@ -1,66 +1,65 @@
-markdown
 # Adopting an Agile Mindset
 
 ## Introduction to Agile
 
 ### What is Agile?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z7J9F2Z5Qjw" frameborder="0" allowfullscreen></iframe>
+[![What is Agile?](https://img.youtube.com/vi/Z7J9F2Z5Qjw/0.jpg)](https://www.youtube.com/watch?v=Z7J9F2Z5Qjw)
 
 ### History of Agile
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GzV1FzX0jw" frameborder="0" allowfullscreen></iframe>
+[![History of Agile](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)](https://www.youtube.com/watch?v=5GzV1FzX0jw)
 
 ### Agile Principles and Values
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZuF55k_0e5Q" frameborder="0" allowfullscreen></iframe>
+[![Agile Principles and Values](https://img.youtube.com/vi/ZuF55k_0e5Q/0.jpg)](https://www.youtube.com/watch?v=ZuF55k_0e5Q)
 
 ## Agile Methodologies
 
 ### Scrum
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GzV1FzX0jw" frameborder="0" allowfullscreen></iframe>
+[![Scrum Explained in 5 Minutes](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)](https://www.youtube.com/watch?v=5GzV1FzX0jw)
 
 ### Kanban
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GzV1FzX0jw" frameborder="0" allowfullscreen></iframe>
+[![Kanban Explained in 5 Minutes](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)](https://www.youtube.com/watch?v=5GzV1FzX0jw)
 
 ### Lean
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GzV1FzX0jw" frameborder="0" allowfullscreen></iframe>
+[![Lean Software Development Explained](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)](https://www.youtube.com/watch?v=5GzV1FzX0jw)
 
 ### Extreme Programming (XP)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GzV1FzX0jw" frameborder="0" allowfullscreen></iframe>
+[![Extreme Programming (XP) Explained](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)](https://www.youtube.com/watch?v=5GzV1FzX0jw)
 
 ## Agile Mindset
 
 ### Embracing Change
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GzV1FzX0jw" frameborder="0" allowfullscreen></iframe>
+[![Embracing Change in Agile](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)](https://www.youtube.com/watch?v=5GzV1FzX0jw)
 
 ### Customer-Centric Thinking
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GzV1FzX0jw" frameborder="0" allowfullscreen></iframe>
+[![Customer-Centric Agile](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)](https://www.youtube.com/watch?v=5GzV1FzX0jw)
 
 ### Collaboration and Teamwork
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GzV1FzX0jw" frameborder="0" allowfullscreen></iframe>
+[![Agile Collaboration and Teamwork](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)](https://www.youtube.com/watch?v=5GzV1FzX0jw)
 
 ### Continuous Improvement
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GzV1FzX0jw" frameborder="0" allowfullscreen></iframe>
+[![Continuous Improvement in Agile](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)](https://www.youtube.com/watch?v=5GzV1FzX0jw)
 
 ## Implementing Agile in Organizations
 
 ### Organizational Culture
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GzV1FzX0jw" frameborder="0" allowfullscreen></iframe>
+[![Building an Agile Culture](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)](https://www.youtube.com/watch?v=5GzV1FzX0jw)
 
 ### Leadership and Management
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GzV1FzX0jw" frameborder="0" allowfullscreen></iframe>
+[![Agile Leadership](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)](https://www.youtube.com/watch?v=5GzV1FzX0jw)
 
 ### Change Management
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GzV1FzX0jw" frameborder="0" allowfullscreen></iframe>
+[![Change Management in Agile](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)](https://www.youtube.com/watch?v=5GzV1FzX0jw)
 
 ### Metrics and Measurement
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GzV1FzX0jw" frameborder="0" allowfullscreen></iframe>
+[![Agile Metrics and Measurement](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)](https://www.youtube.com/watch?v=5GzV1FzX0jw)
 
 ## Case Studies and Success Stories
 
 ### Real-World Examples
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GzV1FzX0jw" frameborder="0" allowfullscreen></iframe>
+[![Agile Case Study: Spotify](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)](https://www.youtube.com/watch?v=5GzV1FzX0jw)
 
 ### Lessons Learned
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5GzV1FzX0jw" frameborder="0" allowfullscreen></iframe>
+[![Lessons Learned from Agile Implementations](https://img.youtube.com/vi/5GzV1FzX0jw/0.jpg)](https://www.youtube.com/watch?v=5GzV1FzX0jw)
 
 ## Resources and Further Learning
 
@@ -72,6 +71,4 @@ markdown
 
 ### Online Courses
 - [Coursera Agile Courses](https://www.coursera.org/courses?query=agile)
-```
 
-You can update the file `Agile Mindset.md` with this corrected content.
