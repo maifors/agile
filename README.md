@@ -1,25 +1,26 @@
-# Agile coaching
-## Table of Contents
-[Agile Mindset](https://github.com/maifors/agile/blob/main/Agile%20Mindset.md)
+# 🚀 Agile Coaching Resources
 
-[Agile Playbook](https://github.com/maifors/agile/blob/main/Agile%20Coach%20Playbook.md)
+## 📚 Core Resources
+- [📘 Agile Mindset](https://github.com/maifors/agile/blob/main/Agile%20Mindset.md)
+- [📖 Agile Playbook](https://github.com/maifors/agile/blob/main/Agile%20Coach%20Playbook.md)
+- [🎧 Agile Podcast](https://github.com/maifors/agile/blob/main/%F0%9F%93%98%20Podiobook%20DX%20(Digital%20Transformation)%20Done%20Right.md)
+- [⚡ MVP Playbook](https://github.com/maifors/agile/blob/main/MVP%20playbook.md)
 
-[Agile Podcast](https://github.com/maifors/agile/blob/main/%F0%9F%93%98%20Podiobook%20DX%20(Digital%20Transformation)%20Done%20Right.md)
+## 🌐 Agile Wiki Hub
+<details>
+<summary>📂 Expand Wiki Resources</summary>
 
-[Agile MVP Palybook](https://github.com/maifors/agile/blob/main/MVP%20playbook.md)
+### Coaching Essentials
+- [📋 Coaching Playbook](https://github.com/maifors/agile/wiki/Agile-Coach-Playbook)
+- [🗓️ Coaching Plan](https://github.com/maifors/agile/wiki/Coaching-Plan)
 
-- **Agile wiki**
+### Specialized Playbooks
+| Playbook | Focus Area |
+|----------|------------|
+| [1. Enterprise Transformation](https://github.com/maifors/agile/wiki/Playbook-1:-Enterprise-Agile-Transformation) | Large-scale organizational change |
+| [2. Leadership Agility](https://github.com/maifors/agile/wiki/Playbook-2:-Leadership-Agility-&-Executive-Coaching) | Executive coaching & decision-making |
+| [3. Framework Scaling](https://github.com/maifors/agile/wiki/Playbook-3:-Scaling-Agile-Framework-Implementation) | SAFe/LeSS implementation strategies |
+| [4. Value Stream Optimization](https://github.com/maifors/agile/wiki/Playbook-4:-Value-Stream-Identification-&-Optimization) | Process improvement techniques |
+| [5. Product Innovation](https://github.com/maifors/agile/wiki/Playbook-5:-Product-Discovery-&-Innovation-Coaching) | Discovery & innovation frameworks |
+</details>
 
-  [Coaching Playbook](https://github.com/maifors/agile/wiki/Agile-Coach-Playbook)
-
-  [Coahing Plan](https://github.com/maifors/agile/wiki/Coaching-Plan)
-
-  [Playbook 1](https://github.com/maifors/agile/wiki/Playbook-1:-Enterprise-Agile-Transformation)
-
-  [Playbook 2](https://github.com/maifors/agile/wiki/Playbook-2:-Leadership-Agility-&-Executive-Coaching)
-
-  [Playbook 3](https://github.com/maifors/agile/wiki/Playbook-3:-Scaling-Agile-Framework-Implementation)
-
-  [Playbook 4](https://github.com/maifors/agile/wiki/Playbook-4:-Value-Stream-Identification-&-Optimization)
-
-  [Playbook 5](https://github.com/maifors/agile/wiki/Playbook-5:-Product-Discovery-&-Innovation-Coaching)
