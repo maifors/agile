@@ -13,3 +13,13 @@
   [Coaching Playbook](https://github.com/maifors/agile/wiki/Agile-Coach-Playbook)
 
   [Coahing Plan](https://github.com/maifors/agile/wiki/Coaching-Plan)
+
+  [Playbook 1](https://github.com/maifors/agile/wiki/Playbook-1:-Enterprise-Agile-Transformation)
+
+  [Playbook 2](https://github.com/maifors/agile/wiki/Playbook-2:-Leadership-Agility-&-Executive-Coaching)
+
+  [Playbook 3](https://github.com/maifors/agile/wiki/Playbook-3:-Scaling-Agile-Framework-Implementation)
+
+  [Playbook 4](https://github.com/maifors/agile/wiki/Playbook-4:-Value-Stream-Identification-&-Optimization)
+
+  [Playbook 5](https://github.com/maifors/agile/wiki/Playbook-5:-Product-Discovery-&-Innovation-Coaching)
