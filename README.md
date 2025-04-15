@@ -13,6 +13,7 @@
 ### Coaching Essentials
 - [📋 Coaching Playbook](https://github.com/maifors/agile/wiki/Agile-Coach-Playbook)
 - [🗓️ Coaching Plan](https://github.com/maifors/agile/wiki/Coaching-Plan)
+- [🧭 Guide to using the Agile Playbooks](https://github.com/maifors/agile/wiki/Guide-to-Using-the-Agile-Coaching-Playbooks)
 
 ### Specialized Playbooks
 | Playbook | Focus Area |
