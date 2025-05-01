@@ -23,5 +23,8 @@
 | [3. Framework Scaling](https://github.com/maifors/agile/wiki/Playbook-3:-Scaling-Agile-Framework-Implementation) | SAFe/LeSS implementation strategies |
 | [4. Value Stream Optimization](https://github.com/maifors/agile/wiki/Playbook-4:-Value-Stream-Identification-&-Optimization) | Process improvement techniques |
 | [5. Product Innovation](https://github.com/maifors/agile/wiki/Playbook-5:-Product-Discovery-&-Innovation-Coaching) | Discovery & innovation frameworks |
+| [6. BRP](https://github.com/maifors/agile/wiki/Playbook-6:-Big-Room-Planning-(BRP)-Playbook) | Big Room Planning |
+| [7. DevSecOps](https://github.com/maifors/agile/wiki/Playbook-7:-DevSecOps-Playbook-for-Agile-Coaches-&-Leaders) | DevOps frameworks |
+| [8. SAFe DevOps](https://github.com/maifors/agile/wiki/Playbook-8:-SAFe-DevOps-Playbook) | SAFe DevOps frameworks |
 </details>
 
