@@ -15,11 +15,11 @@
             margin: 0;
             padding: 0;
             background-color: #f9f9f9;
-            color: #222;
+            color: #222; /* Darker text for better contrast */
         }
         a {
             text-decoration: none;
-            color: #0073b1;
+            color: #0073b1; /* LinkedIn blue for links */
         }
         a:hover {
             text-decoration: underline;
@@ -38,7 +38,7 @@
             position: sticky;
             top: 0;
             z-index: 1000;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add slight shadow for better visibility */
         }
         header .logo {
             font-size: 1.5rem;
@@ -54,10 +54,24 @@
             flex: 1;
             margin: 0 20px;
         }
+        .search-bar input {
+            width: 100%;
+            padding: 8px 12px;
+            border: 1px solid #ccc; /* Slightly darker border for better visibility */
+            border-radius: 5px;
+            outline: none;
+        }
+        .search-bar input:focus {
+            border-color: #0073b1;
+            box-shadow: 0 0 3px #0073b1; /* Focus effect */
+        }
         nav ul {
             list-style: none;
             display: flex;
             gap: 15px;
+        }
+        nav ul li {
+            font-size: 0.9rem;
         }
         nav ul li a {
             color: #0073b1;
@@ -74,7 +88,12 @@
         .hero h1 {
             font-size: 2.5rem;
             margin-bottom: 10px;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Add shadow for better readability on light backgrounds */
+        }
+        .hero p {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
         }
         .cta-button {
             background: #0073b1;
@@ -104,34 +123,31 @@
         section p {
             font-size: 1rem;
             line-height: 1.6;
-            color: #333;
+            color: #333; /* Adjusted for better readability */
         }
-
-        /* Contact Form */
-        form {
+        .grid {
             display: flex;
-            flex-direction: column;
-            gap: 15px;
-            margin-top: 20px;
+            gap: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
         }
-        form input, form textarea, form button {
-            padding: 10px;
-            font-size: 1rem;
-            border: 1px solid #ccc;
-            border-radius: 5px;
+        .card {
+            background: #f3f3f3; /* Light grey for contrast against white */
+            padding: 20px;
+            border-radius: 10px;
+            width: 30%;
+            min-width: 250px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
         }
-        form input:focus, form textarea:focus {
-            border-color: #0073b1;
-            box-shadow: 0 0 3px #0073b1;
+        .card h3 {
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+            color: #0073b1; /* Consistent blue theme */
         }
-        form button {
-            background: #0073b1;
-            color: white;
-            border: none;
-            cursor: pointer;
-        }
-        form button:hover {
-            background: #005582;
+        .card p {
+            font-size: 0.95rem;
+            color: #555; /* Neutral text color for better contrast */
         }
 
         /* Footer */
@@ -144,6 +160,9 @@
         footer p {
             font-size: 0.9rem;
             color: #555;
+        }
+        footer a {
+            color: #0073b1;
         }
     </style>
 </head>
@@ -186,26 +205,56 @@
     <!-- Services Section -->
     <section id="services" class="container">
         <h2>Services</h2>
-        <p>Discover how I can help you succeed with Agile methodologies.</p>
+        <div class="grid">
+            <div class="card">
+                <h3>One-on-One Coaching</h3>
+                <p>Personalized guidance for leaders and individuals.</p>
+            </div>
+            <div class="card">
+                <h3>Team Training</h3>
+                <p>Workshops and facilitation for Agile adoption.</p>
+            </div>
+            <div class="card">
+                <h3>Organizational Consulting</h3>
+                <p>Large-scale Agile transformations.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Products Section -->
+    <section id="products" class="container">
+        <h2>Products</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>Online Courses</h3>
+                <p>Learn Agile methodologies at your own pace.</p>
+            </div>
+            <div class="card">
+                <h3>eBooks & Guides</h3>
+                <p>Downloadable resources for deeper insights.</p>
+            </div>
+            <div class="card">
+                <h3>Templates & Toolkits</h3>
+                <p>Ready-to-use tools for sprint planning and retrospectives.</p>
+            </div>
+        </div>
     </section>
 
     <!-- Contact Section -->
     <section id="contact" class="container">
         <h2>Contact Me</h2>
         <p>Let’s Transform Your Team Together</p>
-        <p><strong>Mobile:</strong> +60132250691</p>
-        <form action="https://formspree.io/f/mnqyojqp" method="POST">
-            <input type="hidden" name="_replyto" value="wanmj@yahoo.com">
+        <form action="https://formspree.io/f/your-email-endpoint" method="POST">
             <input type="text" name="name" placeholder="Your Name" required>
             <input type="email" name="email" placeholder="Your Email" required>
             <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
-            <button type="submit">Send Message</button>
+            <button type="submit" class="cta-button">Send Message</button>
         </form>
     </section>
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2025 Coach Jauhari. All rights reserved. | <a href="#privacy-policy">Privacy Policy</a> | <a href="#terms">Terms of Service</a></p>
+        <p>&copy; 2025 Coach Jauhari. All rights reserved. <a href="#privacy-policy">Privacy Policy</a> | <a href="#terms">Terms of Service</a></p>
     </footer>
 </body>
 </html>
